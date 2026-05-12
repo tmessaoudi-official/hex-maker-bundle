@@ -1,0 +1,54 @@
+{
+    "name": "takitech/hex-maker-bundle",
+    "description": "Symfony MakerBundle extension that scaffolds Hexagonal Architecture + CQRS boilerplate in seconds.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "keywords": [
+        "symfony",
+        "maker",
+        "hexagonal-architecture",
+        "cqrs",
+        "ddd",
+        "scaffolding"
+    ],
+    "authors": [
+        {
+            "name": "Takieddine Messaoudi",
+            "email": "takieddine.messaoudi@claude.grdf.fr"
+        }
+    ],
+    "require": {
+        "php": "^8.4",
+        "symfony/framework-bundle": "^7.0",
+        "symfony/maker-bundle": "^1.58"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0",
+        "symfony/console": "^7.0",
+        "symfony/http-kernel": "^7.0",
+        "symfony/dependency-injection": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TakiTech\\HexMakerBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TakiTech\\HexMakerBundle\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "symfony/flex": true
+        }
+    },
+    "extra": {
+        "symfony": {
+            "allow-contrib": false
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
