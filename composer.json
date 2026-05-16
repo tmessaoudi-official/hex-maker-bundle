@@ -14,9 +14,14 @@
     "authors": [
         {
             "name": "Takieddine Messaoudi",
-            "email": "takieddine.messaoudi@claude.grdf.fr"
+            "email": "takieddine.messaoudi.official@gmail.com"
         }
     ],
+    "homepage": "https://github.com/takieddine-messaoudi/hex-maker-bundle",
+    "support": {
+        "source": "https://github.com/takieddine-messaoudi/hex-maker-bundle/tree/main",
+        "issues": "https://github.com/takieddine-messaoudi/hex-maker-bundle/issues"
+    },
     "require": {
         "php": "^8.4",
         "symfony/framework-bundle": "^7.0",
