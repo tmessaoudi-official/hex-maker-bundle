@@ -9,7 +9,7 @@
 ## Getting started
 
 ```bash
-git clone https://github.com/takieddine-messaoudi/hex-maker-bundle
+git clone https://github.com/tmessaoudi-official/hex-maker-bundle
 cd hex-maker-bundle
 composer install
 ```

@@ -17,10 +17,10 @@
             "email": "takieddine.messaoudi.official@gmail.com"
         }
     ],
-    "homepage": "https://github.com/takieddine-messaoudi/hex-maker-bundle",
+    "homepage": "https://github.com/tmessaoudi-official/hex-maker-bundle",
     "support": {
-        "source": "https://github.com/takieddine-messaoudi/hex-maker-bundle/tree/main",
-        "issues": "https://github.com/takieddine-messaoudi/hex-maker-bundle/issues"
+        "source": "https://github.com/tmessaoudi-official/hex-maker-bundle/tree/main",
+        "issues": "https://github.com/tmessaoudi-official/hex-maker-bundle/issues"
     },
     "require": {
         "php": "^8.4",
