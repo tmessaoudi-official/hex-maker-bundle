@@ -24,7 +24,7 @@
     },
     "require": {
         "php": "^8.4",
-        "symfony/framework-bundle": "^7.0",
+        "symfony/framework-bundle": "^8.0",
         "symfony/maker-bundle": "^1.58"
     },
     "require-dev": {
